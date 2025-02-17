@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SpiralMatrix","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SpiralMatrix","l":"SpiralMatrix()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"SpiralMatrix","l":"spiralOrder(int[][])"}];updateSearchResults();
