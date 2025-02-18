@@ -6,7 +6,6 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -59,44 +58,19 @@
             "request": "launch",
             "mainClass": "DiagonalSum",
             "projectName": "Array_b711ce7a"
-=======
-            "name": "BinarySearch",
-            "request": "launch",
-            "mainClass": "BinarySearch",
-            "projectName": "Java_393ad6f8"
-        },
-        {
-            "type": "java",
-            "name": "SpiralMatrix",
-            "request": "launch",
-            "mainClass": "SpiralMatrix",
-            "projectName": "Java_393ad6f8"
-        },
-        {
-            "type": "java",
-            "name": "object",
-            "request": "launch",
-            "mainClass": "ObjectOriented.object",
-            "projectName": "Java_393ad6f8"
->>>>>>> 1e9e829 (comment added)
         },
         {
             "type": "java",
             "name": "Kadane",
             "request": "launch",
             "mainClass": "Kadane",
-<<<<<<< HEAD
             "projectName": "Array_b711ce7a"
-=======
-            "projectName": "Java_528b1310"
->>>>>>> 1e9e829 (comment added)
         },
         {
             "type": "java",
             "name": "Largest",
             "request": "launch",
             "mainClass": "Largest",
-<<<<<<< HEAD
             "projectName": "Array_b711ce7a"
         },
         {
@@ -105,57 +79,12 @@
             "request": "launch",
             "mainClass": "LinkedList",
             "projectName": "Array_b711ce7a"
-=======
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "NotFixed",
-            "request": "launch",
-            "mainClass": "NotFixed",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Conditionalloops",
-            "request": "launch",
-            "mainClass": "Conditionalloops",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "Dopamine",
-            "request": "launch",
-            "mainClass": "Dopamine",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "Dopelganger",
-            "request": "launch",
-            "mainClass": "Dopelganger",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "Functions",
-            "request": "launch",
-            "mainClass": "Functions",
-            "projectName": "Java_528b1310"
->>>>>>> 1e9e829 (comment added)
         },
         {
             "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
-<<<<<<< HEAD
             "projectName": "Array_b711ce7a"
         },
         {
@@ -290,45 +219,6 @@
             "request": "launch",
             "mainClass": "varArgs",
             "projectName": "Array_b711ce7a"
-=======
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "Openhimer",
-            "request": "launch",
-            "mainClass": "Openhimer",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "SwitchStatements",
-            "request": "launch",
-            "mainClass": "SwitchStatements",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "game",
-            "request": "launch",
-            "mainClass": "game",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "hiten",
-            "request": "launch",
-            "mainClass": "hiten",
-            "projectName": "Java_528b1310"
-        },
-        {
-            "type": "java",
-            "name": "swap",
-            "request": "launch",
-            "mainClass": "swap",
-            "projectName": "Java_528b1310",
-            "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-21.0.1/lib\"--add-modules javafx.controls,javafx.fxml"
->>>>>>> 1e9e829 (comment added)
         }
     ]
 }

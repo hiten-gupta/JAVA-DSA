@@ -1,0 +1,159 @@
+String Declaration and Initialization
+Creating a String:
+
+String str = "Hello";
+String str2 = new String("World");
+Use Case: Used to declare and initialize strings. Using new String() creates a new object explicitly, while literals reuse existing ones from the string pool for memory efficiency.
+
+String Concatenation:
+
+String str = "Hello" + " World";
+String str2 = str.concat("!");
+Use Case: Combine strings. Use + for simplicity and concat() for chaining operations.
+
+Basic String Operations
+Length of a String:
+
+int len = str.length();
+Use Case: Get the number of characters in a string.
+
+Character at a Specific Index:
+
+char ch = str.charAt(2);
+Use Case: Access a character at a specific position in the string.
+
+Substring Extraction:
+
+String substr = str.substring(2, 5);
+Use Case: Extract a portion of the string (from index 2 to 4 here).
+
+Comparison:
+
+boolean isEqual = str.equals("Hello");
+int comparison = str.compareTo("World");
+Use Case:
+
+equals(): Check if two strings are identical.
+compareTo(): Compare strings lexicographically.
+Ignore Case Comparison:
+
+boolean isEqualIgnoreCase = str.equalsIgnoreCase("hello");
+Use Case: Check equality without case sensitivity.
+
+String Modification
+Replace Characters:
+
+String replaced = str.replace('l', 'x');
+Use Case: Replace specific characters or substrings.
+
+Convert to Upper or Lower Case:
+
+String upper = str.toUpperCase();
+String lower = str.toLowerCase();
+Use Case: Change the case of a string.
+
+Trim Whitespaces:
+
+String trimmed = str.trim();
+Use Case: Remove leading and trailing whitespace.
+
+Search and Analysis
+Find Index of a Character or Substring:
+
+int index = str.indexOf('l');
+int lastIndex = str.lastIndexOf('l');
+Use Case: Find the first or last occurrence of a character or substring.
+
+Check if String Contains Substring:
+
+boolean contains = str.contains("World");
+Use Case: Check if a string contains a specific sequence of characters.
+
+Starts or Ends with a Substring:
+
+boolean startsWith = str.startsWith("He");
+boolean endsWith = str.endsWith("ld");
+Use Case: Verify if a string begins or ends with specific characters.
+
+Is String Empty:
+
+boolean isEmpty = str.isEmpty();
+Use Case: Check if a string has zero length.
+
+String Conversion
+Convert Primitive to String:
+
+String str = String.valueOf(123);
+Use Case: Convert numbers, characters, booleans, etc., to a string.
+
+Convert String to Primitive:
+
+int num = Integer.parseInt("123");
+double d = Double.parseDouble("123.45");
+Use Case: Parse strings into their numeric equivalents.
+
+String to Character Array:
+
+char[] charArray = str.toCharArray();
+Use Case: Convert a string into an array of characters for manipulation.
+
+Split String:
+
+String[] parts = str.split(" ");
+Use Case: Divide a string into substrings based on a delimiter.
+
+String Iteration
+Iterate Through Characters:
+for (char ch : str.toCharArray()) {
+    System.out.print(ch);
+}
+Use Case: Process each character in the string individually.
+Formatting Strings
+Formatted Strings:
+String formatted = String.format("Hello %s, you have %d new messages.", "John", 5);
+Use Case: Create a formatted string with placeholders.
+StringBuffer and StringBuilder
+StringBuilder for Mutable Strings:
+
+StringBuilder sb = new StringBuilder("Hello");
+sb.append(" World");
+sb.insert(5, " Java");
+sb.delete(5, 10);
+Use Case: Perform efficient, mutable string operations in single-threaded applications.
+
+StringBuffer for Thread-Safe Operations:
+
+StringBuffer sb = new StringBuffer("Hello");
+sb.append(" World");
+Use Case: Perform mutable string operations in multi-threaded applications.
+
+Advanced String Operations
+Joining Strings:
+
+String joined = String.join(", ", "A", "B", "C");
+Use Case: Combine multiple strings with a delimiter.
+
+Repeat Strings:
+
+String repeated = "abc".repeat(3); // "abcabcabc"
+Use Case: Repeat a string a specific number of times.
+
+Special Characters in Strings
+Escape Characters:
+String str = "Hello \"World\" \nWelcome!";
+Use Case: Use special characters like quotes, newlines, or tabs within a string.
+Regular Expressions
+Matches a Pattern:
+
+boolean matches = str.matches("\\d+");
+Use Case: Check if a string matches a regular expression.
+
+Replace with Regex:
+
+String replaced = str.replaceAll("\\d", "*");
+Use Case: Replace parts of a string based on a pattern.
+
+Split with Regex:
+
+String[] parts = str.split("\\s+");
+Use Case: Split a string based on a pattern (e.g., whitespace).
