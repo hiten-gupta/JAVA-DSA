@@ -7,6 +7,7 @@
         {
             "type": "java",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -60,6 +61,8 @@
             "mainClass": "DiagonalSum",
             "projectName": "Array_b711ce7a"
 =======
+=======
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "BinarySearch",
@@ -78,7 +81,10 @@
             "request": "launch",
             "mainClass": "ObjectOriented.object",
             "projectName": "Java_393ad6f8"
+<<<<<<< HEAD
 >>>>>>> 1e9e829 (comment added)
+=======
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
         },
         {
             "type": "java",
@@ -86,16 +92,21 @@
             "request": "launch",
             "mainClass": "Kadane",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "projectName": "Array_b711ce7a"
 =======
             "projectName": "Java_528b1310"
 >>>>>>> 1e9e829 (comment added)
+=======
+            "projectName": "Java_528b1310"
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
         },
         {
             "type": "java",
             "name": "Largest",
             "request": "launch",
             "mainClass": "Largest",
+<<<<<<< HEAD
 <<<<<<< HEAD
             "projectName": "Array_b711ce7a"
         },
@@ -106,6 +117,8 @@
             "mainClass": "LinkedList",
             "projectName": "Array_b711ce7a"
 =======
+=======
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
             "projectName": "Java_528b1310"
         },
         {
@@ -148,13 +161,17 @@
             "request": "launch",
             "mainClass": "Functions",
             "projectName": "Java_528b1310"
+<<<<<<< HEAD
 >>>>>>> 1e9e829 (comment added)
+=======
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
         },
         {
             "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
+<<<<<<< HEAD
 <<<<<<< HEAD
             "projectName": "Array_b711ce7a"
         },
@@ -291,6 +308,8 @@
             "mainClass": "varArgs",
             "projectName": "Array_b711ce7a"
 =======
+=======
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
             "projectName": "Java_528b1310"
         },
         {
@@ -328,7 +347,10 @@
             "mainClass": "swap",
             "projectName": "Java_528b1310",
             "vmArgs": "--module-path \"C:/Program Files/javafx-sdk-21.0.1/lib\"--add-modules javafx.controls,javafx.fxml"
+<<<<<<< HEAD
 >>>>>>> 1e9e829 (comment added)
+=======
+>>>>>>> c655d0432a7fd73d0f4983e7231efd4837a1b822
         }
     ]
 }
