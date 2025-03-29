@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Babhi",
+            "request": "launch",
+            "mainClass": "Array.Babhi",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "ArrayListExample",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "ChangeVlaue",
+            "request": "launch",
+            "mainClass": "ChangeVlaue",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalSum",
+            "request": "launch",
+            "mainClass": "DiagonalSum",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarray",
+            "request": "launch",
+            "mainClass": "MaxSubarray",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Multi",
+            "request": "launch",
+            "mainClass": "Multi",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "MyStringBuilder",
+            "request": "launch",
+            "mainClass": "MyStringBuilder",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Shortest",
+            "request": "launch",
+            "mainClass": "Shortest",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "SprialMatrix",
+            "request": "launch",
+            "mainClass": "SprialMatrix",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "Stings",
+            "request": "launch",
+            "mainClass": "Stings",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "TrapWater",
+            "request": "launch",
+            "mainClass": "TrapWater",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArrays",
+            "request": "launch",
+            "mainClass": "TwoDArrays",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "TwodArray",
+            "request": "launch",
+            "mainClass": "TwodArray",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "TwooArray",
+            "request": "launch",
+            "mainClass": "TwooArray",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "checkUpper",
+            "request": "launch",
+            "mainClass": "checkUpper",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "checkUpperCase",
+            "request": "launch",
+            "mainClass": "checkUpperCase",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "largestString",
+            "request": "launch",
+            "mainClass": "largestString",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "sorted",
+            "request": "launch",
+            "mainClass": "sorted",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "stringCompression",
+            "request": "launch",
+            "mainClass": "stringCompression",
+            "projectName": "Array_b711ce7a"
+        },
+        {
+            "type": "java",
+            "name": "varArgs",
+            "request": "launch",
+            "mainClass": "varArgs",
+            "projectName": "Array_b711ce7a"
+        }
+    ]
+}

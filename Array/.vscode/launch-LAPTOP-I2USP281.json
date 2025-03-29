@@ -6,24 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "BinarySearch",
+            "name": "findingUnique",
             "request": "launch",
-            "mainClass": "BinarySearch",
-            "projectName": "Java_393ad6f8"
-        },
-        {
-            "type": "java",
-            "name": "SpiralMatrix",
-            "request": "launch",
-            "mainClass": "SpiralMatrix",
-            "projectName": "Java_393ad6f8"
-        },
-        {
-            "type": "java",
-            "name": "object",
-            "request": "launch",
-            "mainClass": "ObjectOriented.object",
-            "projectName": "Java_393ad6f8"
+            "mainClass": "findingUnique",
+            "projectName": "Java_60a25737"
         },
         {
             "type": "java",
